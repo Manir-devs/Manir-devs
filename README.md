@@ -1,4 +1,4 @@
-Manir Devs
+##Manir Devs
 - ```Building random shit.. :/```
 - ```Interested in nothing. just coding, gaming and creating own projects woh bhi poora din bina soye, padhe and khaana khaaye.```
 - ```currently learning deep secret language - Assembly naam suna hai kabhi?```
@@ -6,7 +6,8 @@ Manir Devs
 - ```AAAAAAHHHHHHHH...................... :ᗡ```
 
 
-
+![Alt Text](https://link-to-image.com/image.png](https://i.ibb.co/k2K62MWf/20250512-201302.png)
+<a href="https://ibb.co/LdShdv2W"><img src="https://i.ibb.co/k2K62MWf/20250512-201302.png" alt="20250512-201302" border="0"></a>
 
 <!---
 - Passionate about building innovative and experimental projects.
