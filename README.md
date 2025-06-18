@@ -7,6 +7,14 @@
 
 
 
+<div style="background-color:#0d1117; color:#00ff9f; font-family:monospace; padding:20px; border-radius:10px; font-size:16px;">
+  <h1 style="color:#39ff14;">Manir Devs</h1>
+  <p>› Building random shit.. :/</p>
+  <p>› Interested in nothing. just coding, gaming and creating own projects woh bhi poora din bina soye, padhe and khaana khaaye.</p>
+  <p>› currently learning deep secret language - Assembly naam suna hai kabhi?</p>
+  <p>› Github's underground wizard - No forks, only f**ks.</p>
+  <p>› AAAAAAHHHHHHHH...................... :ᗡ</p>
+</div>
 
 
 <!---
