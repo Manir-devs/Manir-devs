@@ -6,7 +6,7 @@
 - ```AAAAAAHHHHHHHH...................... :ᗡ```
 
 
-![Alt Text](https://link-to-image.com/image.png](https://i.ibb.co/k2K62MWf/20250512-201302.png)
+![Alt Text](https://i.ibb.co/k2K62MWf/20250512-201302.png)
 
 
 <!---
