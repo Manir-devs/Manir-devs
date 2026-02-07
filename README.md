@@ -67,10 +67,6 @@
 
 ---
 
-### 🎮 Gaming Stats (Mini Flex)
-- **X (Twitter):** `@ManirBhaii` pe updates aate rehte hain!
-- **Insta:** `artistry_with_manir___` (Art + Code, killer combo bhai!)
-
 ### 🤝 Strategic Collaboration
 
 My repositories are open to those who value efficiency. If you find a bottleneck or a bug, your contribution is welcome. 
