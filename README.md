@@ -3,10 +3,6 @@
 > "Architecture over aesthetics. Logic over noise."
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manir-devs&layout=compact&theme=tokyonight)](https://github.com/Manir-devs)
-
----
 ### 🚀 Top Repositories
 
 | Project | Description | Tech Stack | Status |
@@ -60,7 +56,7 @@
 </div>
 
 
-### 🤝 Strategic Collaboration
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> Strategic Collaboration
 
 My repositories are open to those who value efficiency. If you find a bottleneck or a bug, your contribution is welcome. 
 
