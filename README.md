@@ -2,14 +2,11 @@
 
 > "Architecture over aesthetics. Logic over noise."
 
-
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,linux,kali,bash,c,java,godot,mongodb,md,git,github,vscode)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manir-devs&layout=compact&theme=tokyonight)](https://github.com/Manir-devs)
 
 ---
-
 ### 🚀 Top Repositories
 
 | Project | Description | Tech Stack | Status |
@@ -17,6 +14,11 @@
 | **[Toolaroo](https://github.com/Manir-devs/Toolaroo)** | Ad-free, privacy-first digital toolbox for developers. | `JS` `HTML` `CSS` | 🟢 Active |
 | **[C-Projects](https://github.com/Manir-devs/C-Projects)** | For our BCA Department, all codes given by teacher | `C` `HTML` `JS` `CSS` | 🟡 Stable |
 | **[ManirOS](https://github.com/Manir-devs/ManirOS)** | Open source operating system, building from scratch | `Assembly` `C` | 🔵 In-Dev |
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,linux,kali,bash,c,java,godot,mongodb,md,git,github,vscode)](#)
 
 ---
 
@@ -68,4 +70,5 @@ My repositories are open to those who value efficiency. If you find a bottleneck
 ---
 
 > **"Architecting transparent systems under the Apache 2.0 License. No tracking, no compromises—just pure, low-level logic."**
+
 
