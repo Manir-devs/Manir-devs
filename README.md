@@ -18,8 +18,8 @@
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Toolaroo](https://github.com/Manir-devs/Toolaroo)** | Ad-free, privacy-first digital toolbox for developers. | `JS` `HTML` `CSS` | 🟢 Active |
-| **[Low-Level-Core](https://github.com/Manir-devs)** | Deep-dive into x86/x64 Assembly & hardware optimization. | `ASM` `C` | 🟡 In-Dev |
-| **[Custom-Game-Logic](https://github.com/Manir-devs)** | High-performance mechanics and engine experiments. | `Godot` `C#` | 🔵 Stable |
+| **[C-Projects](https://github.com/Manir-devs/C-Projects)** | For our BCA Department, all codes given by teacher | `C` `HTML` `JS` `CSS` | 🟡 Stable |
+| **[ManirOS](https://github.com/Manir-devs/ManirOS)** | Open source operating system, building from scratch | `Assembly` `C` | 🔵 In-Dev |
 
 ---
 
