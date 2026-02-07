@@ -23,13 +23,12 @@
 
 ---
 
-### 📊 Performance Metrics
+### 📈 System Status & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manir-devs&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Manir's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manir-devs&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+![Commits](https://img.shields.io/badge/Commits-Active-2ea44f?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-Open_Source-blue?style=for-the-badge&logo=git)
+![Status](https://img.shields.io/badge/Status-Building_Future-orange?style=for-the-badge&logo=visualstudiocode)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 ---
 
