@@ -3,6 +3,7 @@
 > "Architecture over aesthetics. Logic over noise."
 
 ---
+
 ### 🚀 Top Repositories
 
 | Project | Description | Tech Stack | Status |
@@ -52,5 +53,8 @@ My repositories are open to those who value efficiency. If you find a bottleneck
 ---
 
 > **"Architecting transparent systems under the Apache 2.0 License. No tracking, no compromises—just pure, low-level logic."**
+
+
+
 
 
