@@ -2,19 +2,11 @@
 
 > "Architecture over aesthetics. Logic over noise."
 
+
 ---
 
-### ⚔️ My Weapons
-
-![C](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Low--Level-Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Logic-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/Structure-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Design-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Godot](https://img.shields.io/badge/Engine-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,linux,kali,bash,c,java,godot,mongodb,md,git,github,vscode)](#)
 
 ---
 
@@ -65,12 +57,6 @@
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,python,linux,kali,bash,c,java,godot,mongodb,md,git,github,vscode)](#)
-
----
 
 ### 🤝 Strategic Collaboration
 
